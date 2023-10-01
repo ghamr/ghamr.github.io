@@ -20,7 +20,21 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 ![image](https://github.com/ghamr/ghamr.github.io/assets/50636897/bbd5bfd4-e485-45c8-bff0-0676dad0bb79)
 
+### Activity 3 extra 
 
+![image](https://github.com/ghamr/ghamr.github.io/assets/50636897/e651bb57-7db2-4e88-a8e2-c11a119059c6)
+
+![image](https://github.com/ghamr/ghamr.github.io/assets/50636897/639900f5-5c24-47bf-99da-2a3c21b5c222)
+
+![image](https://github.com/ghamr/ghamr.github.io/assets/50636897/028544fa-7461-4c7c-b586-83351b099657)
+
+## Activity 4
+
+![image](https://github.com/ghamr/ghamr.github.io/assets/50636897/2e65a980-7462-4945-8f53-24543516ab7a)
+
+Sorry, I don't have an image from that commit, and this is the current state of the app anyway:
+
+![image](https://github.com/ghamr/ghamr.github.io/assets/50636897/34fcb28e-bad4-4d84-999e-29f7f21ee9da)
 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
