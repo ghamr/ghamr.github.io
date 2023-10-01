@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #e63939;
+  color: #8b2072;
 }
 
 /* main blockqoute test  */
@@ -200,7 +200,7 @@ nav i {
 } */
 
 main {
-  background: url(../../assets/img/bg.png) repeat;
+  background-color: #1b0412;
   padding-left: 190px;
 }
 
@@ -306,6 +306,7 @@ h3 {
   padding-bottom: 30px;
   padding-top: 0;
   position: relative;
+  background-color: #black;
 }
 
 .full-height {
@@ -325,7 +326,7 @@ h3 {
 }
 
 #intro.section .container {
-  color: white;
+  color: #ffffff;
   font-weight: 200;
   left: 0;
   position: absolute;
@@ -550,7 +551,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #860a57 !important;
+  color: #ff7600 !important;
 }
 
 /* .teal-text {
