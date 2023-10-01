@@ -6,12 +6,10 @@
   height: auto;
   overflow: hidden;
   /* display: inline-block; */
-  
-  
   /* background-size: cover;  */
-  margin: -31px; 
+  margin: -31px;
   margin-left:-7px;
-  border: 6px solid rgba(156, 0, 0, 0.4); 
+  border: 6px solid rgb(199 92 0 / 39%);
   border-radius: 50% !important;
 }
 
@@ -84,9 +82,9 @@
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #fff;
+  background: #5200738f;
   color: #dd8500e8;
-  border: 2px solid #fff;
+  border: 2px solid #dd8500e8;
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
@@ -124,7 +122,7 @@
 /* body-color */
 
 body {
-  color: #333;
+  color: #ff6000cf;
   font-size: 18px;
 }
 
@@ -257,8 +255,8 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 } */
 
 ul.side-nav.fixed li.logo {
-  background-color: #fafafa;
-  border-bottom: 1px solid #ddd;
+  background-color: #260038;
+  border-bottom: 1px solid #ff5e00;
   box-sizing: content-box;
   min-height: 90px;
   padding: 30px 30px 40px;
@@ -275,7 +273,7 @@ ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) 
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
-  color: #333 !important;
+  color: #ff6c00 !important;
 }
 
 li.logo span {
@@ -320,7 +318,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #c93287 repeat;
   position: relative;
 }
 
@@ -348,7 +346,7 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #24305e;
+  border-bottom: 5px solid #49245e;
 }
 
 #intro.section .teal {
@@ -356,7 +354,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.8);
   height: 100%;
   left: 0;
   position: absolute;
@@ -367,7 +365,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(243, 40, 33, 0.2);
+  background-color: rgb(191 33 243 / 24%);
 }
 
 .card {
@@ -394,6 +392,7 @@ h3 {
 
 .card .card-content {
   padding-bottom: 30px;
+  background-color: #000000;
 }
 
 .card .card-content p {
@@ -414,7 +413,7 @@ h3 {
 }
 
 #experience .card-action {
-  background-color: rgba(0, 0, 0, 0.02);
+  background-color: rgb(205 74 0);
   border: none;
 }
 
@@ -428,7 +427,7 @@ h3 {
 
 .card-action span {
   font-size: 85%;
-  color: #666;
+  color: #000;
 }
 
 .card ul {
@@ -481,7 +480,7 @@ a.hoverline:hover {
 }
 
 #skills h4 {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #f50;
   margin-bottom: 30px;
   padding-bottom: 20px;
 }
@@ -502,7 +501,7 @@ a.hoverline:hover {
 }
 
 #experience .card-content .row {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ff5500;
   padding-bottom: 10px;
 }
 
@@ -559,7 +558,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #803300 !important;
+  background-color: #831e00  !important;
 }
 
 /* .teal {
@@ -597,7 +596,7 @@ small {
     width: 100%;
   }
   nav {
-    background: #fff;
+    background: #690000;
     height: 64px;
     position: absolute;
   }
