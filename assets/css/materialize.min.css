@@ -3111,8 +3111,8 @@ span.badge.new:after {
 
 @font-face {
     font-family: "Material-Design-Icons";
-    src: url("../font/material-design-icons/Material-Design-Icons.eot");
-    src: url("../font/material-design-icons/Material-Design-Icons.eot?#iefix") format("embedded-opentype"),url("../font/material-design-icons/Material-Design-Icons.woff") format("woff"),url("../font/material-design-icons/Material-Design-Icons.ttf") format("truetype"),url("../font/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons") format("svg");
+    src: url("//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/font/material-design-icons/Material-Design-Icons.eot");
+    src: url("//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/font/material-design-icons/Material-Design-Icons.eot?#iefix") format("embedded-opentype"),url("//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/font/material-design-icons/Material-Design-Icons.woff") format("woff"),url("//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/font/material-design-icons/Material-Design-Icons.ttf") format("truetype"),url("//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/font/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons") format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -6657,31 +6657,31 @@ nav .input-field label.active {
 
 @font-face {
     font-family: "Roboto";
-    src: url("../font/roboto/Roboto-Thin.ttf");
+    src: url("//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/font/roboto/Roboto-Thin.ttf");
     font-weight: 200;
 }
 
 @font-face {
     font-family: "Roboto";
-    src: url("../font/roboto/Roboto-Light.ttf");
+    src: url("//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/font/roboto/Roboto-Light.ttf");
     font-weight: 300;
 }
 
 @font-face {
     font-family: "Roboto";
-    src: url("../font/roboto/Roboto-Regular.ttf");
+    src: url("//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/font/roboto/Roboto-Regular.ttf");
     font-weight: 400;
 }
 
 @font-face {
     font-family: "Roboto";
-    src: url("../font/roboto/Roboto-Medium.ttf");
+    src: url("//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/font/roboto/Roboto-Medium.ttf");
     font-weight: 500;
 }
 
 @font-face {
     font-family: "Roboto";
-    src: url("../font/roboto/Roboto-Bold.ttf");
+    src: url("//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/font/roboto/Roboto-Bold.ttf");
     font-weight: 700;
 }
 
